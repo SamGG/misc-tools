@@ -5,8 +5,10 @@ Aggregate selected items from Diva statistics files.
 
 As the py2exe gives a program that fails to run, the python interpreter must be installed as a pre-requiste.
 
-1. Download Python 2.7 and install it. [Windows x86 MSI installer](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi)
-2. Download aggregator.py and copy it whereever you want to make it run
+1. Download Python 2.7 and install it.
+  * [Windows x86 MSI installer](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi)
+2. Download aggregator.py and copy it wherever you want to make it run.
+  * [aggregator.py](https://raw.githubusercontent.com/bioinfoxtra/misc-tools/master/diva-stat-aggregator/aggregator.py)
 
 
 ## HowTo
